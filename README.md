@@ -1,2 +1,1 @@
-# eaglermypack
-my texture pack (lite version) on eaglercraft
+# eaglermypack is the best eagercraft pack
